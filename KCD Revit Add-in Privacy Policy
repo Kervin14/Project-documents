@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>KCD Revit Add-in Privacy Policy</title>
+</head>
+<body>
+    <h1>KCD Revit Add-in Privacy Policy</h1>
+    <p><strong>Effective Date:</strong> February 24, 2026</p>
+
+    <h2>1. Data Collection</h2>
+    <p>
+        The KCD Revit Add-in does <strong>not collect, store, or transmit any personal information or project data from users</strong>.
+        All operations are performed locally within Autodesk Revit, using the Revit API and standard libraries.
+        No user data, project data, or usage analytics are collected or processed by the add-in.
+    </p>
+
+    <h2>2. Third-Party Data Sharing</h2>
+    <p>
+        The KCD Revit Add-in does <strong>not share any data with third parties</strong>.
+        No analytics tools, advertising networks, or third-party SDKs are integrated that would collect or transmit user data.
+        If, in the future, any data sharing is required, all third parties will be contractually obligated to provide equal or greater protection of user data as stated in this policy.
+    </p>
+
+    <h2>3. Data Retention and Deletion</h2>
+    <p>
+        Since the add-in does <strong>not collect or store any user data</strong>, there is no data retention or deletion policy required.
+        No information is retained by the add-in after use.
+    </p>
+
+    <h2>4. Revoking Consent and Data Deletion</h2>
+    <p>
+        As no data is collected or stored, users do <strong>not need to revoke consent or request deletion</strong>.
+        If you have questions or concerns regarding privacy, please contact the publisher.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+        Kervin Calero<br>
+        Email: [your-email@example.com]<br>
+        GitHub: <a href="https://github.com/Kervin14">https://github.com/Kervin14</a>
+    </p>
+</body>
+</html>
